@@ -1,9 +1,9 @@
 # ColdReachAI
-AI-powered cold outreach automation tool that generates personalized sales emails using advanced language models and delivers them via SendGrid. AIMailer streamlines outbound sales by reducing manual effort and improving response rates with tailored, human-like email drafts.
+AI-powered cold outreach automation tool that generates personalized sales emails using advanced language models and delivers them via SendGrid. coldReachAI streamlines outbound sales by reducing manual effort and improving response rates with tailored, human-like email drafts.
 
 
 ColdReachAI is designed for teams and individuals who want to automate cold sales outreach in a smart, reliable, and scalable way.
-Instead of spending hours crafting emails, AIMailer leverages the Gemini AI model to generate high-quality, context-aware email drafts and integrates with SendGrid for seamless delivery to targeted recipients.
+Instead of spending hours crafting emails, ColdReachAI leverages the Gemini AI model to generate high-quality, context-aware email drafts and integrates with SendGrid for seamless delivery to targeted recipients.
 
 The project makes it simple to:
 
