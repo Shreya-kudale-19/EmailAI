@@ -1,9 +1,9 @@
-# ColdReachAI
-AI-powered cold outreach automation tool that generates personalized sales emails using advanced language models and delivers them via SendGrid. coldReachAI streamlines outbound sales by reducing manual effort and improving response rates with tailored, human-like email drafts.
+# EmailAI
+AI-powered cold outreach automation tool that generates personalized sales emails using advanced language models and delivers them via SendGrid. EmailAI streamlines outbound sales by reducing manual effort and improving response rates with tailored, human-like email drafts.
 
 
-ColdReachAI is designed for teams and individuals who want to automate cold sales outreach in a smart, reliable, and scalable way.
-Instead of spending hours crafting emails, ColdReachAI leverages the Gemini AI model to generate high-quality, context-aware email drafts and integrates with SendGrid for seamless delivery to targeted recipients.
+EmailAI is designed for teams and individuals who want to automate cold sales outreach in a smart, reliable, and scalable way.
+Instead of spending hours crafting emails, EmailAI leverages the Gemini AI model to generate high-quality, context-aware email drafts and integrates with SendGrid for seamless delivery to targeted recipients.
 
 The project makes it simple to:
 
@@ -38,7 +38,7 @@ requests / httpx (for API calls)
 python-dotenv (for environment variable handling)
 
 Prerequisites
-Before running ColdReachAI, ensure you have:
+Before running EmailAI, ensure you have:
 
 ->A Google Gemini API key for AI email generation.
 
